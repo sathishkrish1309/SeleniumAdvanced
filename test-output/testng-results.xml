@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T21:44:52 IST" name="Suite" finished-at="2024-05-29T21:46:04 IST" duration-ms="72243">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T21:44:52 IST" name="Test1" finished-at="2024-05-29T21:45:34 IST" duration-ms="42394">
+      <class name="advancedSelenium.AdvancedSelenium">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:advancedSelenium.AdvancedSelenium@38cee291]" started-at="2024-05-29T21:44:52 IST" name="setup" finished-at="2024-05-29T21:45:19 IST" duration-ms="26779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void advancedSelenium.AdvancedSelenium.TestScenario1() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@50378a4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestScenario1()[pri:0, instance:advancedSelenium.AdvancedSelenium@38cee291]" started-at="2024-05-29T21:45:19 IST" name="TestScenario1" finished-at="2024-05-29T21:45:33 IST" duration-ms="14151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:advancedSelenium.AdvancedSelenium@38cee291]" started-at="2024-05-29T21:45:33 IST" name="tearDown" finished-at="2024-05-29T21:45:34 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- advancedSelenium.AdvancedSelenium -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-05-29T21:45:34 IST" name="Test2" finished-at="2024-05-29T21:46:04 IST" duration-ms="29751">
+      <class name="advancedSelenium.AdvancedSelenium">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:advancedSelenium.AdvancedSelenium@72035809]" started-at="2024-05-29T21:45:34 IST" name="setup" finished-at="2024-05-29T21:45:47 IST" duration-ms="12272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void advancedSelenium.AdvancedSelenium.TestScenario1() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@60f00693]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestScenario1()[pri:0, instance:advancedSelenium.AdvancedSelenium@72035809]" started-at="2024-05-29T21:45:47 IST" name="TestScenario1" finished-at="2024-05-29T21:46:03 IST" duration-ms="16133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:advancedSelenium.AdvancedSelenium@72035809]" started-at="2024-05-29T21:46:03 IST" name="tearDown" finished-at="2024-05-29T21:46:04 IST" duration-ms="1338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- advancedSelenium.AdvancedSelenium -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
